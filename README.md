@@ -16,7 +16,8 @@ Comprehensive Sales Analysis Dashboard built with advanced Excel formulas and Pi
 <img width="1611" height="696" alt="image" src="https://github.com/user-attachments/assets/feb744f2-08b1-4794-95e4-0c5a5e9ecfcc" />
 ## 📂 How to use & Download
 شما می‌توانید فایل اکسل را مستقیماً از این صفحه دانلود کنید:
-گلیک کنید روی فایل : [Arshia_Walmart_Sales.xlsx](https://github.com/user-attachments/files/30914203/Arshia_Walmart_Sales.xlsx)
+گلیک کنید روی فایل : [Arshia_Walmart_Sales.xlsx](https://github.com/user-attachments/files/30915859/Arshia_Walmart_Sales.xlsx)
+
 ## 🛠 Tools Used
 - **Microsoft Excel**
 - **Power Pivot**
